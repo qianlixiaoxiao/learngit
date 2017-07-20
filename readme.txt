@@ -2,4 +2,5 @@ git is a distributed version control system
 git is free software distributed under  the GPL
 git has a mutable index called stage
 git fracks changes
-creat a new branch & simple
+creat a new branch AND simple
+
